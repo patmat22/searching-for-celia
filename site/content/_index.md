@@ -1,20 +1,32 @@
 ---
-title: "Great coffee with a conscience"
-subtitle: Support sustainable farming while enjoying a cup
-image: /img/home-jumbotron.jpg
+title: Searching for Celia
+subtitle: Mentions of Argentine performance artist Celia Barbosa
+image: /img/screen-shot-2018-08-12-at-9.04.21-am.png
 blurb:
-    heading: Why Kaldi?
-    text: "Kaldi is the coffee store for everyone who believes that great coffee shouldn't just taste good, it should do good too. We source all of our beans directly from small scale sustainable farmers and make sure part of the profits are reinvested in their communities."
+  heading: Who is Celia Barbosa?
+  text: >-
+    Celia Barbosa was an avant garde dancer and choreographer active in the
+    Argentine art scene in the 1960s, alongside other prominent artists such as
+    Leopoldo Maler, Edgardo Gimenez, Marta Minujin, Marilu Marini in the
+    Instituto Di Tella (Di Tella Institute) in Buenos Aires. 
 intro:
-    heading: "What we offer"
-    text: "Kaldi is the ultimate spot for coffee lovers who want to learn about their java’s origin and support the farmers that grew it. We take coffee production, roasting and brewing seriously and we’re glad to pass that knowledge to anyone."
+  heading: Why this Blog?
+  text: >-
+    Celia move to New York City in 1968 to to work with Martha Graham and sadly
+    battled with mental illness which lost her custody of two of her children,
+    shut the door to her career, and changed her life forever.  This blog is
+    curated by her children and want to uncover her legacy and let her not be
+    forgotten.
 products:
-    - image: img/illustrations-coffee.svg
-      text: "We sell green and roasted coffee beans that are sourced directly from independent farmers and farm cooperatives. We’re proud to offer a variety of coffee beans grown with great care for the environment and local communities. Check our post or contact us directly for current availability."
-    - image: /img/illustrations-coffee-gear.svg
-      text: "We offer a small, but carefully curated selection of brewing gear and tools for every taste and experience level. No matter if you roast your own beans or just bought your first french press, you’ll find a gadget to fall in love with in our shop."
+  - image: /img/img_0176.jpeg
+    text: 'Celia in NYC, late ''60s'
+  - image: /img/danza-actual-para-m-y-celia.jpg
+    text: ''
+  - image: /img/dsc09443.jpg
+  - image: /img/dsc09444.jpg
+  - image: /img/danza-actual-para-hija-celia.jpg
 values:
-    heading: Our values
-    text: Coffee is an amazing part of human culture but it has a dark side too – one of colonialism and mindless abuse of natural resources and human lives. We want to turn this around and return the coffee trade to the drink’s exhilarating, empowering and unifying nature.
+  heading: ''
+  text: ''
 ---
 
